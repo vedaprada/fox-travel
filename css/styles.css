@@ -1,0 +1,452 @@
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.h2-thai-offer {
+  color: white;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 1.5;
+  padding-top: 80px;
+  font-weight: bold;
+}
+
+.h2-testimonials {
+  color: white;
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 1.5;
+  padding-top: 80px;
+  font-weight: bold;
+  font-size: 2.2rem;
+}
+
+.h4-offer {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  font-weight: normal;
+}
+
+.span0 {
+  color: green;
+  font-weight: bold;
+}
+
+.span1 {
+  color: orange;
+}
+
+.span2 {
+  color: #96bb7c;
+}
+
+
+
+.top-container {
+  position: relative;
+  text-align: center;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../images/thailand-offer.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 130vh;
+}
+
+.demo {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 2.5vw;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.icon0 {
+  position: absolute;
+  top: 90%;
+  left: 23%;
+  color: white;
+  font-size: 1.3vw;
+  font-weight: normal;
+}
+
+.icon1 {
+  position: absolute;
+  top: 90%;
+  left: 38%;
+  color: white;
+  font-size: 1.3vw;
+  font-weight: normal;
+}
+
+.icon2 {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  color: white;
+  font-size: 1.3vw;
+  font-weight: normal;
+}
+
+.icon3 {
+  position: absolute;
+  top: 90%;
+  left: 60%;
+  color: white;
+  font-size: 1.3vw;
+  font-weight: normal;
+}
+
+.icon4 {
+  position: absolute;
+  top: 90%;
+  left: 72%;
+  color: white;
+  font-size: 1.3vw;
+  font-weight: normal;
+}
+
+.icon0:hover{
+  opacity: 0.7;
+  transition: 0.6s ease;
+  text-decoration: none;
+  color: white;
+}
+
+.icon1:hover{
+  opacity: 0.7;
+  transition: 0.6s ease;
+  text-decoration: none;
+  color: white;
+}
+
+.icon2:hover{
+  opacity: 0.7;
+  transition: 0.6s ease;
+  text-decoration: none;
+  color: white;
+}
+
+.icon3:hover{
+  opacity: 0.7;
+  transition: 0.6s ease;
+  text-decoration: none;
+  color: white;
+}
+
+.icon4:hover{
+  opacity: 0.7;
+  transition: 0.6s ease;
+  text-decoration: none;
+  color: white;
+}
+
+.fas:hover {
+  opacity: 0.7;
+  transition: 0.6s ease;
+}
+
+.top-content {
+  position: absolute;
+  top: 43%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 4.5vw;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.p1 {
+  position: absolute;
+  top: 58%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 50%
+  margin: 0 auto 0 auto;
+  line-height: 1.5
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+}
+
+.btn-top {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.navbar {
+  padding: 3% 4%;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+
+.nav-link {
+  font-size: 1rem;
+  color: #fff !important;
+}
+
+.nav-link:hover {
+  background-color: white;
+  color: black !important;
+  transition: 0.8s ease;
+}
+
+#package, #destination {
+  padding: 4% 2%;
+  text-align: center;
+}
+
+.price-row {
+  margin: 4% 3%;
+}
+
+.col-lg-4 {
+  margin-bottom: 15px;
+}
+
+.destination-row{
+  margin: 2% 3% 3%;
+  text-align: center;
+}
+
+hr {
+  width: 55%;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.btn-outline-light {
+  margin-top: 30px;
+}
+
+#offer {
+  position: relative;
+  text-align: center;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url('../images/thai2.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 115vh;
+  margin-bottom: 20px;
+}
+
+.div1 {
+  height: 150px;
+  width: 150px;
+  background-color: #8cba51;
+  opacity: 0.7;
+  text-align: center;
+  border-radius: 25px;
+  display: inline-block;
+  padding: 2% 2%;
+  margin: 60px 20px 30px;
+  color: #fff;
+}
+
+
+#speciality {
+  position: relative;
+  text-align: center;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../images/boat.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
+  margin-bottom: 75px;
+}
+
+.p-speciality{
+  padding-top: 16px;
+  line-height: 1.5;
+}
+
+.h4-speciality {
+  font-weight: bold;
+}
+
+.speciality-div1 {
+  height: 14vw;
+  width: 25vw;
+  background-color: white;
+  display: inline-block;
+  margin: 1% 1.8%;
+  text-align: center;
+  position: static;
+  vertical-align: top;
+  padding: 1%;
+  opacity: 0.8;
+}
+
+.span3 {
+  font-size: 1.9rem;
+  color: green;
+}
+
+.h2-speciality {
+  color: white;
+  padding-top: 55px;
+  padding-bottom: 30px;
+  font-size: 2.1rem;
+  font-weight: bold;
+}
+
+
+#testimonials {
+  position: relative;
+  text-align: center;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../images/taj.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  margin-bottom: 75px;
+  color: white;
+}
+
+.testimonial-image {
+  width: 17%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  line-height: 1.5;
+}
+
+.carousel-item {
+  padding: 4% 7% 7%;
+}
+
+#join-us {
+  position: relative;
+  text-align: center;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../images/test.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 110vh;
+  margin-bottom: 75px;
+  color: white;
+}
+
+
+.cust {
+  padding: 0 15%;
+}
+
+.admin {
+  padding: 0 15%;
+}
+
+.form-text {
+  color: white !important;
+}
+
+.h4-admin, .h4-cust {
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.card-img-top:hover {
+  opacity: 0.7;
+  transition: 0.6s ease;
+}
+
+
+#contact {
+  position: relative;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url('../images/santorini.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 110vh;
+  color: white;
+  margin-bottom: 60px;
+}
+
+.h1-contact {
+  color: white;
+  font-size: 2.7rem;
+  font-weight: bold;
+  padding-top: 40px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+
+.contact-us, .contact-details, .social {
+  padding: 0 7%;
+}
+.p-contact {
+  width: 50%;
+  line-height: 2;
+  padding-left: 78px;
+  padding-top: 8px;
+  padding-bottom: 15px;
+}
+
+.h5-contact {
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.icon {
+  color: #79d70f;
+  padding-right: 20px;
+  padding-top: 5px;
+}
+
+.social {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.h5-social {
+  padding-bottom: 20px;
+  font-weight:bolder;
+}
+
+.social-icon {
+  margin: 0 25px;
+}
+
+.f:hover {
+  color: #1b6ca8;
+}
+
+.t:hover {
+  color: #35d0ba;
+}
+
+.i:hover {
+  color: #7d5a5a;
+}
+
+.l:hover {
+  color: #35d0ba;
+}
+
+.y:hover {
+  color: red;
+}
+
+.copyright {
+  padding-top: 60px;
+  color: #fff;
+  font-size: small;
+}
