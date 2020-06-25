@@ -14,3 +14,4 @@ typeWriter();
 $(".top-container").mouseenter(function(){
   $(".top-container-content").fadeOut("slow","swing").fadeIn("slow","swing");
 });
+
